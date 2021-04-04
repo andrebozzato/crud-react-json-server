@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andre Luis Bozzato",
+      "email": "abozzato@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rubia Bozzato",
+      "email": "rubiabozzato@gmail.com"
+    },
+    {
+      "name": "João Bozzato",
+      "email": "jlmbozzato@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Daniel Bozzato",
+      "email": "dmbozzato@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Vovó Bauca",
+      "email": "vovobebel@gmail.com",
+      "id": 6
+    }
+  ]
+}
